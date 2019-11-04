@@ -7,3 +7,4 @@ Renderer of fractals with cpu multi-threading and event managmenet.
 	-use of graphical filters (blur, edge detection, smoothen).
 	-management of events
 	-edging with the limits of computer precision.
+	-create of a basic GUI.
